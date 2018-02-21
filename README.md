@@ -1,4 +1,3 @@
 # MakeMe
-aaa
-#*I can show you the world*
-#*Shimmer shivering wonder*
+# *I can show you the world*
+# *Shimmer shivering wonder*
